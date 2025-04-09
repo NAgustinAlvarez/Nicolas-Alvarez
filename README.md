@@ -39,3 +39,8 @@ Mi objetivo es crecer profesionalmente como desarrollador, enfrentar desafíos m
 - Otros en camino...
 
 ---
+
+## 📂 Datos de contacto 
+  -  [`Linkedin`](https://www.linkedin.com/in/nicol%C3%A1s-alvarez-70572b232/)
+  -  [`Email`](mailto:nicolas001alvarez@gmail.com)
+
