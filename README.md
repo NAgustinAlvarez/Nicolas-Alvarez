@@ -34,8 +34,8 @@ Mi objetivo es crecer profesionalmente como desarrollador, enfrentar desafíos m
 
 ## 📂 Repositorios
 
-- [`jobpreparation`](#): Ejercicios y notas de preparación técnica  
-- [`Henry Project`](https://github.com/NAgustinAlvarez/PM3HENRY): Proyecto de gestión de turnos para Henry
+- [`Henry Project Modulo4`](https://github.com/NAgustinAlvarez/PM4): Proyecto de Backend para ecommerce con NestJS. 
+- [`Henry Project Modulo3`](https://github.com/NAgustinAlvarez/PM3HENRY): Proyecto de gestión de turnos de comercio.
 - Otros en camino...
 
 ---
