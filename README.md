@@ -35,7 +35,7 @@ Mi objetivo es crecer profesionalmente como desarrollador, enfrentar desafíos m
 ## 📂 Repositorios
 
 - [`jobpreparation`](#): Ejercicios y notas de preparación técnica  
-- [`Henry Project`](https://github.com/pi-rym/PM3-NAgustinAlvarez): Proyecto de gestión de turnos para Henry
+- [`Henry Project`](https://github.com/NAgustinAlvarez/PM3HENRY): Proyecto de gestión de turnos para Henry
 - Otros en camino...
 
 ---
