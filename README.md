@@ -36,7 +36,7 @@ Mi objetivo es crecer profesionalmente como desarrollador, enfrentar desafíos m
   </a>
   <!-- Express.js -->
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+    <img src="https://seeklogo.com/images/E/express-js-logo-FA36FF1D3F-seeklogo.com.png" alt="Express.js" width="40" height="40"/>
   </a>
   <!-- HTML5 -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
