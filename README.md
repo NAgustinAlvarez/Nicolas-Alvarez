@@ -89,6 +89,8 @@ Mi objetivo es crecer profesionalmente como desarrollador, enfrentar desafíos m
 
 - [`Henry Project Modulo4`](https://github.com/NAgustinAlvarez/PM4): Proyecto de Backend para ecommerce con NestJS. 
 - [`Henry Project Modulo3`](https://github.com/NAgustinAlvarez/PM3HENRY): Proyecto de gestión de turnos de comercio.
+- [`Henry Final Project Frontend`](https://github.com/Grupo2henry/splity-frontend) : Aplicación de división de gastos convinando Nest y Next (parte frontend).
+- [`Henry Final Project Frontend`](https://github.com/Grupo2henry/splity-backend) : Aplicación de división de gastos convinando Nest y Next (parte backend).
 - Otros en camino...
 
 ---
