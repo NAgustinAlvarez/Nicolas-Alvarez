@@ -22,8 +22,6 @@ Mi objetivo es crecer profesionalmente como desarrollador, enfrentar desafíos m
 
 ## 🛠️ ¿Qué tecnologías uso?
 
-## 🛠️ ¿Qué tecnologías uso?
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- CSS3 -->
